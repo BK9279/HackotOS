@@ -1,0 +1,54 @@
+# Build artifacts
+build/
+dist/
+*.o
+*.a
+*.so
+*.dll
+*.dylib
+
+# Object files
+*.obj
+*.o
+*.os
+*.ko
+*.out
+*.app
+
+# ISO images
+*.iso
+*.img
+
+# Emulation files
+*.qcow2
+*.vdi
+*.vmdk
+*.vhd
+
+# Compiled binaries
+bin/
+*.bin
+*.elf
+*.hex
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Dependency directories
+node_modules/
+.cargo/
+target/
+
+# Generated files
+*.gen
+*.generated
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
